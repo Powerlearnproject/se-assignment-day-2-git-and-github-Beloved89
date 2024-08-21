@@ -62,7 +62,10 @@
 # 9. Verify the Commit on GitHub. 
 # What are commits: A commit in Git is a snapshot of the project's files at a specific point in time. It records changes made to the files in the repository and includes metadata like the author's name, email, date, and a commit message that describes what was changed and why. 
 How Commits Help in Tracking Changes and Managing Versions
-# 1. Version Control: Commits help track the history of changes in a project. Each commit has a unique identifier (a SHA hash) that allows you to refer to that specific point in the project's history.Reverting Changes: If a change introduces an issue, you can revert to a previous commit where the project was stable.Collaboration: Multiple developers can work on the same project without overwriting each other's work. Commits are often combined, compared, and merged to integrate different changes.Branching and Merging: Different branches of a project can have their own commit history, allowing for parallel development. Commits help merge these branches back together.
+# 1. Version Control: Commits help track the history of changes in a project. Each commit has a unique identifier (a SHA hash) that allows you to refer to that specific point in the project's history. 
+# 2.Reverting Changes: If a change introduces an issue, you can revert to a previous commit where the project was stable. 
+# 3.Collaboration: Multiple developers can work on the same project without overwriting each other's work. Commits are often combined, compared, and merged to integrate different changes.
+# 4.Branching and Merging: Different branches of a project can have their own commit history, allowing for parallel development. Commits help merge these branches back together.
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
