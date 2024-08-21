@@ -13,7 +13,7 @@
 # 8. Security and Access Control 
 # 9. GitHub actions 
 # 10. Enterprise support 
-# How Version Control Helps Maintain Project IntegrityHistory Tracking: 
+# How Version Control Helps Maintain Project Integrity.
 # 1. History tracking 
 # 2. Collaboration 
 # 3. Reverting changes 
